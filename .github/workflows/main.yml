@@ -157,6 +157,6 @@ jobs:
           to: ${{ secrets.TELEGRAM_TO }}
           token: ${{ secrets.TELEGRAM_TOKEN }}
           message: |
-            🚀 Деплой Taski успешно выполнен!
-            📦 Образы обновлены на Docker Hub
-            🌐 Сайт: https://taski-test.servegame.com
+            Деплой Taski успешно выполнен!
+            Образы обновлены на Docker Hub
+            Сайт: https://taski-test.servegame.com
